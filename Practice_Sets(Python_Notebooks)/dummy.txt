@@ -1,0 +1,2 @@
+INFO:  Got 5 and 5 for DIV: 2019-01-06 11:48:45,420
+INFO:  Entered the DIVISION part: 2019-01-06 11:48:45,420

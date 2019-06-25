@@ -1,0 +1,2 @@
+if good_enough(guess, x):
+        return guess

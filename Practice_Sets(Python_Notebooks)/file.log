@@ -1,0 +1,66 @@
+INFO:The value of dif is 13
+INFO:The value of i is 0
+INFO:The difference between lst[lst.index(i)+1] - i = 13
+INFO:Changing the value of counter to 1
+INFO:The value of i is 13
+INFO:The difference between lst[lst.index(i)+1] - i = 13
+INFO:Changing the value of counter to 2
+INFO:The value of i is 26
+INFO:The difference between lst[lst.index(i)+1] - i = 13
+INFO:Changing the value of counter to 3
+INFO:The difference is positive
+INFO:The value of dif is 60
+INFO:The value of i is 0
+INFO:The difference between lst[lst.index(i)+1] - i = 60
+INFO:Changing the value of counter to 1
+INFO:The value of i is 60
+INFO:The difference between lst[lst.index(i)+1] - i = 60
+INFO:Changing the value of counter to 2
+INFO:The value of i is 120
+INFO:The difference between lst[lst.index(i)+1] - i = 60
+INFO:Changing the value of counter to 3
+INFO:The difference is positive
+INFO:The value of dif is 14
+INFO:The value of i is -14
+INFO:The difference between lst[lst.index(i)+1] - i = 14
+INFO:Changing the value of counter to 1
+INFO:The value of i is 0
+INFO:The difference between lst[lst.index(i)+1] - i = 14
+INFO:Changing the value of counter to 2
+INFO:The value of i is 14
+INFO:The difference between lst[lst.index(i)+1] - i = 14
+INFO:Changing the value of counter to 3
+INFO:The difference is positive
+INFO:The value of dif is 13
+INFO:The value of j is 0
+INFO:The difference between lst[lst.index(j)+1] - i = 13
+INFO:Changing the value of counter to 1
+INFO:The value of j is 13
+INFO:The difference between lst[lst.index(j)+1] - i = 13
+INFO:Changing the value of counter to 2
+INFO:The value of j is 26
+INFO:The difference between lst[lst.index(j)+1] - i = 13
+INFO:Changing the value of counter to 3
+INFO:The difference is positive
+INFO:The value of dif is 60
+INFO:The value of j is 0
+INFO:The difference between lst[lst.index(j)+1] - i = 60
+INFO:Changing the value of counter to 1
+INFO:The value of j is 60
+INFO:The difference between lst[lst.index(j)+1] - i = 60
+INFO:Changing the value of counter to 2
+INFO:The value of j is 120
+INFO:The difference between lst[lst.index(j)+1] - i = 60
+INFO:Changing the value of counter to 3
+INFO:The difference is positive
+INFO:The value of dif is 14
+INFO:The value of j is -14
+INFO:The difference between lst[lst.index(j)+1] - i = 14
+INFO:Changing the value of counter to 1
+INFO:The value of j is 0
+INFO:The difference between lst[lst.index(j)+1] - i = 14
+INFO:Changing the value of counter to 2
+INFO:The value of j is 14
+INFO:The difference between lst[lst.index(j)+1] - i = 14
+INFO:Changing the value of counter to 3
+INFO:The difference is positive

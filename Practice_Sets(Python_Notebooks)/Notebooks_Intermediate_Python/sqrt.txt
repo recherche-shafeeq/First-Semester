@@ -1,0 +1,1 @@
+ERROR:root:Got a request for square root of negative number.
